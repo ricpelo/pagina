@@ -1,1 +1,2 @@
 Este archivo es nuevo.
+Nueva línea.
